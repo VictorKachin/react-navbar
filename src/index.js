@@ -1,7 +1,7 @@
 import React from 'react';
 import {render} from 'react-dom';
 import {createGlobalStyle} from 'styled-components'
-import Root from "./copmonents/Root";
+import Root from "./components/Root";
 
 const GlobalStyles = createGlobalStyle`
   html,
