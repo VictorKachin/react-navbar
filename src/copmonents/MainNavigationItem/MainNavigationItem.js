@@ -52,7 +52,6 @@ const Wrapper = styled.div`
   }
 `;
 
-
 const MainNavigationItem = ({dropdowmContent, label}) => {
     return (
         <Wrapper>
